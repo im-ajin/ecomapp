@@ -1,0 +1,14 @@
+.pointer{
+    cursor: pointer;
+}
+
+
+.biganimation{
+    transition: linear 150ms;
+}
+.biganimation:hover{
+    transform: scale(1.03);
+}
+.o-hidden{
+    overflow: hidden;
+}
